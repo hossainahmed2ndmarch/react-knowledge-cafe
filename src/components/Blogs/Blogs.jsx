@@ -12,7 +12,7 @@ const Blogs = () => {
     loadBlogs();
   }, []);
   return (
-    <div>
+    <div className="col-span-2 grid grid-cols-1 gap-16">
       <h2>Blogs: {blogs.length}</h2>
     </div>
   );
