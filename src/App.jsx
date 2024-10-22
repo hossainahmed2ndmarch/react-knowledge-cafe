@@ -17,9 +17,14 @@ function App() {
   };
 
   // Mark as read button functionality
-  const handleMarkAsRead = (time) => {
+  const handleMarkAsRead = (time, id) => {
     const newReadingTime = readingTime + parseInt(time);
     setReadingTime(newReadingTime);
+    // Remove bookmark
+    const remainingBookMarks = bookMarks.filter(
+      (bookMark) => bookMark.id !== id
+    );
+    setBookmarks(remainingBookMarks);
   };
   return (
     <>
