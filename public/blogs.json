@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "cover": "https://i.ibb.co/FsFGsyt/flat-lay-workstation-with-copy-space-laptop.jpg",
+  "author": "John Doe",
+  "author_img": "https://i.ibb.co/mCtRzT3/portrait-young-handsome-man-while-looking-away.jpg",
+  "title": "How to Build Your Dream Workspace",
+  "posted_date": "2024-10-16",
+  "reading_time": "5 min",
+  "hashtags": [
+   "#workspace",
+   "#productivity",
+   "#design"
+  ]
+ },
+ {
+  "id": 2,
+  "cover": "https://i.ibb.co/FsFGsyt/flat-lay-workstation-with-copy-space-laptop.jpg",
+  "author": "John Doe",
+  "author_img": "https://i.ibb.co/mCtRzT3/portrait-young-handsome-man-while-looking-away.jpg",
+  "title": "The Ultimate Guide to Remote Work",
+  "posted_date": "2024-09-25",
+  "reading_time": "8 min",
+  "hashtags": [
+   "#remote",
+   "#work",
+   "#guide"
+  ]
+ },
+ {
+  "id": 3,
+  "cover": "https://i.ibb.co/FsFGsyt/flat-lay-workstation-with-copy-space-laptop.jpg",
+  "author": "John Doe",
+  "author_img": "https://i.ibb.co/mCtRzT3/portrait-young-handsome-man-while-looking-away.jpg",
+  "title": "Productivity Hacks for Entrepreneurs",
+  "posted_date": "2024-09-10",
+  "reading_time": "6 min",
+  "hashtags": [
+   "#productivity",
+   "#hacks",
+   "#entrepreneur"
+  ]
+ },
+ {
+  "id": 4,
+  "cover": "https://i.ibb.co/FsFGsyt/flat-lay-workstation-with-copy-space-laptop.jpg",
+  "author": "John Doe",
+  "author_img": "https://i.ibb.co/mCtRzT3/portrait-young-handsome-man-while-looking-away.jpg",
+  "title": "Top 10 Gadgets Every Remote Worker Needs",
+  "posted_date": "2024-08-30",
+  "reading_time": "7 min",
+  "hashtags": [
+   "#gadgets",
+   "#remote",
+   "#tools"
+  ]
+ },
+ {
+  "id": 5,
+  "cover": "https://i.ibb.co/FsFGsyt/flat-lay-workstation-with-copy-space-laptop.jpg",
+  "author": "John Doe",
+  "author_img": "https://i.ibb.co/mCtRzT3/portrait-young-handsome-man-while-looking-away.jpg",
+  "title": "How to Stay Healthy While Working from Home",
+  "posted_date": "2024-08-15",
+  "reading_time": "4 min",
+  "hashtags": [
+   "#health",
+   "#remote",
+   "#lifestyle"
+  ]
+ }
+]
